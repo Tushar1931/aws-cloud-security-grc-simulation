@@ -1,4 +1,4 @@
-# 🏗️ Architecture Diagram
+# Architecture Diagram
 
 This folder contains the architecture diagram for the simulated AWS environment used in the security assessment.
 
