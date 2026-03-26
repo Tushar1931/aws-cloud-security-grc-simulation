@@ -1,4 +1,4 @@
-# 🗺️ Compliance Mapping
+# Compliance Mapping
 
 **Project:** AWS Cloud Security Risk Assessment & GRC Simulation  
 **Author:** Tushar Sharma  
@@ -161,7 +161,7 @@ This mapping demonstrates how technical misconfigurations translate into governa
 
 1. **Access Control (ISO A.9 / NIST AC)** is the most heavily implicated control area, appearing across three of five risks (R1, R2, R4). This indicates a systemic weakness in identity and access governance.
 
-2. **R2 and R4 together** represent a compounded compliance gap — the combination of an unrestricted IAM policy and absent MFA means that a single compromised credential could satisfy the conditions for a full account breach, triggering multiple ISO 27001 and NIST control failures simultaneously.
+2. **R2 and R4 together** represent a compounded compliance gap - the combination of an unrestricted IAM policy and absent MFA means that a single compromised credential could satisfy the conditions for a full account breach, triggering multiple ISO 27001 and NIST control failures simultaneously.
 
 3. **Logging and monitoring (ISO A.12 / NIST AU)** failures (R5) reduce the organisation's ability to detect whether other controls have been violated, amplifying the effective risk of all other findings.
 
